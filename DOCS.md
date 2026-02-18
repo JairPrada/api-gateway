@@ -1,4 +1,4 @@
-# 🚪 API Gateway - Documentación Técnica
+# API Gateway - Documentacion Tecnica
 
 ## Tabla de Contenidos
 
