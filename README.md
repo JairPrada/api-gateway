@@ -11,9 +11,23 @@ Punto de entrada unico para todas las peticiones del frontend hacia los microser
 | Prefijo | `/api-gateway/v1` |
 | Framework | NestJS 11 |
 
-## Documentacion Tecnica
+## Documentacion
 
-Para documentacion detallada sobre arquitectura, modulos, endpoints y patrones de diseno, consultar el archivo [DOCS.md](./DOCS.md).
+### Documentacion de Arquitectura General
+
+Para entender la arquitectura completa del sistema, flujos de datos y como se conectan los servicios, consultar:
+
+- [Arquitectura del Sistema (GitHub)](https://github.com/JairPrada/frontend-bank/blob/main/ARCHITECTURE.md)
+
+### Documentacion Swagger (OpenAPI)
+
+Este servicio expone documentacion interactiva de la API con Swagger. Una vez el servicio este corriendo, acceder a:
+
+- **Swagger UI:** http://localhost:5000/api
+
+### Documentacion Tecnica del Proyecto
+
+Para documentacion detallada sobre modulos, endpoints y patrones de diseno, consultar el archivo [DOCS.md](./DOCS.md).
 
 ## Requisitos Previos
 
